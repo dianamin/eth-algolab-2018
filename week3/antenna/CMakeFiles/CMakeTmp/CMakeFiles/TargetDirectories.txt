@@ -1,3 +1,0 @@
-/Users/dianamin/Desktop/algo_lab2/week3/antenna/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
-/Users/dianamin/Desktop/algo_lab2/week3/antenna/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-/Users/dianamin/Desktop/algo_lab2/week3/antenna/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_9ae3c.dir
